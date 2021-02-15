@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://www.chiragm.in</loc>
-<lastmod>2021-02-05</lastmod>
+    <loc>http://www.chiragm.in</loc>
+    <lastmod>2021-02-16</lastmod>
+</url>
+<url>
+    <loc>http://www.chiragm.in/about</loc>
+    <lastmod>2021-02-16</lastmod>
+</url>
+<url>
+    <loc>http://www.chiragm.in/education</loc>
+    <lastmod>2021-02-16</lastmod>
+</url>
+<url>
+    <loc>http://www.chiragm.in/work</loc>
+    <lastmod>2021-02-16</lastmod>
+</url>
+<url>
+    <loc>http://www.chiragm.in/contact</loc>
+    <lastmod>2021-02-16</lastmod>
 </url>
 </urlset>
